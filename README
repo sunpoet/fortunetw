@@ -1,0 +1,41 @@
+登錄(出)時顯示格言雋語，名言錦句。
+
+o linyoung 柳永詞  全宋詞第 13-55 頁  共 212 闕
+  輸入者：David Steelman 施鐵民
+	  Soochow University
+	  Bitnet: SCUT024@TWNMOE10.EDU.TW
+	  P.O. Box 1840, Taipei, Taiwan 100
+  來源:   gopher://dongpo.math.ncu.edu.tw/00/poem/LiuYong%09%09%2B
+
+o shijing 詩經
+
+  來源 http://etext.lib.virginia.edu/chinese/shijing/AnoShih.html
+
+o tangshi 唐詩三百首
+  輸入者：單維彰 <shann@math.ncu.edu.tw>
+	  趙惟倫 <wchao@post.uni-bielefeld.de>
+  來源:   ftp://linux.cis.nctu.edu.tw/people/yjchou/fortunes.tangshi
+  此電子版本乃由 Ned Walsh 於一九九二年春陸續輸入.  當時他是美國 Columbia 大學
+  的博士班學生.  他斷斷續續地學習了十年的中文.  其博士論文的主題將是關於北宋
+  時期的詞.  我於該年春末將全文校正一遍, 並稍改 Ned 的格式.  全本共有三百又二十首
+  詩, 原由蘅塘退士選輯, 分為六卷.  以下目錄中, 右端列的是詩的編號.
+                                                              --- 單維彰 1992-7-5
+     修改為適合 fortune 程式讀取的格式，並將部份序言移除。    --- 趙惟倫 1998-4-29
+
+o yijing
+  輸入者：Song <Song.bbs@bbs.cynix.com.tw>
+
+  Song 將符合 fortune 格式的「易經」本文放在
+  http://home.kimo.com.tw/song-linux/yijing.tar.gz
+  有興趣的網友可以自行下載使用、修改。
+  如果是使用 Slackware ，下載後請參考 man strfile , man fortune ,
+  /etc/profile.d/bsdgames.sh 如果是使用其他 distribution，
+  還先請參考 binbin 大大的文章吧 :P
+
+  設定好之後，每次 login 就會顯示某一個卦或爻的卦詞及象詞了。
+  當作卜卦嗎？ :D
+  此「易經」全文是由網路上下載後修改而成，
+  倒不是自己親手輸入的，也沒有詳細的核對過，不過大致上是不差的。
+
+
+statue@freebsd.sinica.edu.tw
